@@ -21,5 +21,5 @@
         android:fragment="com.android.settings.kowAOSP.BatteryIconStyle"
         android:key="battery_style_pref"
         android:title="@string/battery_icon_title" />
-    
+
 </PreferenceScreen>
