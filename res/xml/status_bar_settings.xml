@@ -18,7 +18,7 @@
     android:title="@string/status_bar_title">
 
     <PreferenceScreen
-        android:fragment="com.android.settings.kowAOSP.BatteryIconStyle"
+        android:fragment="com.android.settings.kowaosp.BatteryIconStyle"
         android:key="battery_style_pref"
         android:title="@string/battery_icon_title" />
 

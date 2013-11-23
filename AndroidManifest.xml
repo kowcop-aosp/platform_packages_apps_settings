@@ -1699,7 +1699,7 @@
         </activity>
 		
         <!-- Kow Settings START -->
-        <activity android:name=".kowAOSP.SystemSettings" />
+        <activity android:name=".kowaosp.SystemSettings" />
         <!-- Kow Settings END -->
 
         <receiver android:name=".widget.SettingsAppWidgetProvider"
