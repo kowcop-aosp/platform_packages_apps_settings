@@ -1697,6 +1697,10 @@
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
+		
+        <!-- Kow Settings START -->
+        <activity android:name=".kowAOSP.SystemSettings" />
+        <!-- Kow Settings END -->
 
         <receiver android:name=".widget.SettingsAppWidgetProvider"
                 android:label="@string/gadget_title"
