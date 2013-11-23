@@ -12,6 +12,7 @@
     <!-- System Interface settings  -->
     <string name="system_settings_title">Addon Settings</string>
     <string name="system_interface_title">Addon Settings</string>
+	<string name="status_bar_title">Status bar</string>
 	
 
     <!-- StatusBar Battery Settings -->
